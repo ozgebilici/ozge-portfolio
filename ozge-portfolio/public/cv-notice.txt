@@ -1,0 +1,2 @@
+Place your CV PDF file here as: cv-ozge-bilici.pdf
+The CV can contain phone number since users opt-in to download it.
