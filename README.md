@@ -48,12 +48,6 @@ It also includes a secure contact form with backend email handling.
 
 ---
 
-## 📸 Preview
-
-> Add screenshots here (optional)
-
----
-
 ## 📬 Contact
 
 - 📧 Email: **ozgebilici40@gmail.com**
