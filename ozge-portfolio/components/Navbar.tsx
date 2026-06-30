@@ -72,7 +72,7 @@ export default function Navbar() {
         >
           <DataGlyphLogo />
           <span className="text-sm font-display font-semibold tracking-wider text-accent-light hidden sm:block">
-            ÖZge Bilici
+            Özge Bilici
           </span>
         </button>
 
